@@ -296,3 +296,7 @@ echo !$a . "<br>";
 <?php
   $enough = $fuel <= 1 ? FALSE : TRUE;
 ?>
+
+<?php
+  echo "<h1>add footer</h1>";
+?>
