@@ -280,11 +280,11 @@
 
 <!-- Использование логических операторов -->
 <?php
-$a = 0; $b = 0;
-echo ($a AND $b) . "<br>";
-echo ($a or $b) . "<br>";
-echo ($a XOR $b) . "<br>";
-echo !$a . "<br>";
+  $a = 0; $b = 0;
+  echo ($a AND $b) . "<br>";
+  echo ($a or $b) . "<br>";
+  echo ($a XOR $b) . "<br>";
+  echo !$a . "<br>";
 ?>
 
 <!-- Использование оператора ? -->
